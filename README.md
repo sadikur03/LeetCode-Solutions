@@ -6,6 +6,7 @@ problem solve
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ problem solve
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -63,6 +65,7 @@ problem solve
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
