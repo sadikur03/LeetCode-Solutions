@@ -12,6 +12,7 @@ problem solve
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
@@ -22,6 +23,7 @@ problem solve
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -56,6 +58,7 @@ problem solve
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Recursion
 |  |
