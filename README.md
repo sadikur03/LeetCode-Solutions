@@ -20,6 +20,7 @@ problem solve
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +32,7 @@ problem solve
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -63,6 +65,7 @@ problem solve
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
