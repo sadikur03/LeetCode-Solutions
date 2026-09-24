@@ -19,6 +19,7 @@ problem solve
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -49,4 +50,12 @@ problem solve
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
