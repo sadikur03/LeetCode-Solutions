@@ -19,6 +19,7 @@ problem solve
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ problem solve
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -79,4 +81,8 @@ problem solve
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sadikur03/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
